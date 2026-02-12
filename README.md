@@ -70,3 +70,5 @@ Sum only even/odd numbers
 👨‍💻 Author
 
 Pranay Jadhao
+
+<img width="817" height="615" alt="image" src="https://github.com/user-attachments/assets/fc6c4daa-3975-4358-a2cb-003eec471ead" />
