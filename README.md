@@ -1,4 +1,5 @@
 ➕ Sum of Array Elements in JavaScript
+
 📌 Description
 
 This JavaScript program calculates the sum of all elements in an array using the built-in reduce() method.
