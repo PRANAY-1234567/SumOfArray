@@ -5,6 +5,7 @@
 This JavaScript program calculates the sum of all elements in an array using the built-in reduce() method.
 
 ✅ Code
+
 function sumArray(arr) {
   return arr.reduce((sum, val) => sum + val, 0);
 }
