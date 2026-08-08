@@ -1,7 +1,6 @@
 # ➕ Sum of Array Elements in JavaScript
 
 A simple JavaScript program that calculates the **sum of all elements in an array** using the built-in `reduce()` method.
-
 This project demonstrates how JavaScript array methods can be used to process and calculate values efficiently.
 
 ---
