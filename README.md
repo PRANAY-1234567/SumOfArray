@@ -25,11 +25,8 @@ In this program:
 sum → accumulator (stores running total)
 
 val → current array element
-
 0 → starting value of sum
-
 So it works like:
-
 0 + 1 = 1
 1 + 2 = 3
 3 + 3 = 6
@@ -41,31 +38,22 @@ So it works like:
 🛠 Concepts Used
 
 Functions in JavaScript
-
 Arrays
-
 Arrow Functions (=>)
-
 reduce() method
 
 🎯 Use Cases
 
 Data processing
-
 Finding totals (marks, prices, etc.)
-
 Interview coding questions
-
 Learning functional programming
 
 🚀 Possible Improvements
 
 Handle empty arrays
-
 Accept user input
-
 Find average using sum
-
 Sum only even/odd numbers
 
 👨‍💻 Author
